@@ -1,8 +1,8 @@
 # quantile_regression
-Python implementation of
+Python implementations of
 - Simultaneous multiple quantile regression (sqr)
 - Simultaneous multiple non-crossing quantile regression (snqr)
-using both linear and kernel methods. Gaussian kernels are used for the examples. As per Yufeng Liu and Yichao Wu, 2011
+using both linear and kernel methods. Gaussian kernels are used for the examples. As per Liu and Wu, 2011
 
 Kernel based "arbitrary" quantile regression (aqr) is also implemented. In this case, the quantile is used as a feature.
 
